@@ -99,7 +99,7 @@ body, html{
     width: 100%;
     padding-top: 57px;
     margin-top: -57px;
-    background-image: url(https://cdn.cogoport.io/cms-prod/vault/original/home-banner-background-1.webp);
+    background: url(https://cdn.cogoport.io/cms-prod/cogo_public/vault/original/home-banner-background-1.webp);
     background-color: #fbdc00;
     background-repeat: no-repeat;
     background-position: 50%;
